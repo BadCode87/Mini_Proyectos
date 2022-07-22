@@ -1,0 +1,23 @@
+.negro{
+    background-color: black;
+    height: 200px;
+    width: 400px;
+}
+
+
+
+
+.cambioAzul{
+    background-color: blue;
+    color: white;
+}
+
+.cambioVerde{
+    background-color: green;
+    color: yellow;
+}
+
+.cambioRojo{
+    background-color: red;
+    color: deepskyblue;
+}
